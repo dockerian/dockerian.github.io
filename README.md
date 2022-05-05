@@ -16,8 +16,8 @@
 * [n0dejs-api](https://github.com/dockerian/n0dejs-api) <br/>
   NodeJS with ES6/ECMAScript 2015
 
-* [poetry](https://github.com/dockerian/poetry) | [pages](https://dockerian.github.io/poetry/) <br/>
-  Chinese poetry collection, study notes, and tools.
+* [poetry](https://github.com/dockerian/poetry) | **[web](https://dockerian.github.io/poetry/)** (github pages) <br/>
+  Chinese/English poetry collection, study notes, and tools.
 
 * [pyapi](https://github.com/dockerian/pyapi) <br/>
   RESTful API examples in python
